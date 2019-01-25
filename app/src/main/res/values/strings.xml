@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btnAdd">Add</string>
+    <string name="txtNumber2" />
+    <string name="txtNumber1" />
+    <string name="lblResult">Result</string>
+    <string name="lblResult2" >Result2</string>
+</resources>
